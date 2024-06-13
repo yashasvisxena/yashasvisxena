@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasvisxena" alt="yashasvisxena" /></a> </p>
 
-- 🔭 I’m currently working on [Leetstats](leet-stats.vercel.app)
+- 🔭 I’m currently working on [Leetstats](https://www.leet-stats.vercel.app)
 
 - 🌱 I’m currently learning **ExpressJs , MongoDB , RESTApi**
 
-- 👨‍💻 All of my projects are available at [yashasvisxena.netlify.app](yashasvisxena.netlify.app)
+- 👨‍💻 All of my projects are available at [yashasvisxena.netlify.app](https://www.yashasvisxena.netlify.app)
 
 - 💬 Ask me about **react , tailwind , appwrite , redux**
 
